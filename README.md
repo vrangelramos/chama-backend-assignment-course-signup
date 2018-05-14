@@ -1,12 +1,8 @@
 # Assignment: Course Sign-up System
 
-Below assignment consists of 3 parts. We expect you to work about 5 hours on
-this assignment.
+Below assignment consists of 3 parts. 
 
-Note that 5 hours is not enough to finish the whole assignment properly. 
-For the parts that you did not get to, you should be able to explain how you would approach 
-them, what problems you expect and what techniques you would apply to solve these 
-problems.
+The assignment is intentionally made too big, we suggest you spend a maximum of 5 hours on it. We would like you to demonstrate the parts you did finish, preferably on your own laptop so you can debug live if necessary. Please prepare a 15-20 minute of presentation, explaining what you did and especially how you would take it further to completion: we want you to not only demonstrate how you code, but also how you transfer knowledge. The rest of the time (40-45 minutes) we will talk about the assignment, how you did it and what are other ways of approaching the problem.
 
 We expect you to showcase your skills in some (or all) of the following areas:
 - Dependency Injection
@@ -17,7 +13,7 @@ We expect you to showcase your skills in some (or all) of the following areas:
 - Web API + OWIN
 - Storage technologies available on the Azure platform (SQL, Table Storage, Cosmos DB, ...)
 
-Please upload the code of the assignment at least 24 hours before you present 
+Please upload the code of the assignment  and the presentation at least 24 hours before you present 
 it. 
 
 ## Case description
