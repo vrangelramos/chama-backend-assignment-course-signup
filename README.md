@@ -59,19 +59,17 @@ Create an API endpoint that gives exactly this information. Consider that this n
 to keep working efficiently when there are millions of sign-ups per day:
 calculating this information at every request is unfeasable.
 
-## Wraping up
+## Wrapping up
+Prepare few slides for your presentation.
 
-Prepare few slides for your presentation. 
-
-Please attach the presentation file (pdf, ppt, keynote, google slides link) inside your project/repository test. 
+Please attach the presentation file (pdf, ppt, keynote, google slides link) inside your project/repository test.
 
 Required:
 - Explore your architecture decision;
-- What tools and tecnohologies you used (libraries, framework, tools etc);
-- Why did you decided to use tecnology X and not Y;
+- What tools and technologies you used (libraries, framework, tools etc);
+- Why did you decide to use technology X and not Y;
 - How you solve each step (API, Scaling out and Querying);
 
 Bonus:
 - The problems and challenges that you have faced;
 - What you think that it can be improved and how.
-
