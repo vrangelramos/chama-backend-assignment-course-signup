@@ -53,11 +53,15 @@ success or failure.
 ## Part 3: Querying
 
 For analysis purposes, the company needs to know per course the minimum age, the
-maximum age and the average age of students that signed up for the course.
+maximum age and the average age of students that signed up for the courses.
+Consider that this needs to keep working efficiently when there are millions 
+of sign-ups per day: calculating this information at every request is unfeasable.
 
-Create an API endpoint that gives exactly this information. Consider that this needs
-to keep working efficiently when there are millions of sign-ups per day:
-calculating this information at every request is unfeasable.
+Create two API endpoints:
+- GET list: which returns a list with the above information for each course, plus
+the course total capacity and current number of students
+- GET details: which returns the above information for a single course, plus
+the teacher and the list of registered students
 
 ## Wrapping up
 Prepare few slides for your presentation.
