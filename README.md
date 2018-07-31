@@ -4,17 +4,19 @@ Below assignment consists of 3 parts.
 
 The assignment is intentionally made too big, we suggest you spend a maximum of 5 hours on it. We would like you to demonstrate the parts you did finish, preferably on your own laptop so you can debug live if necessary. Please prepare a 15-20 minute of presentation, explaining what you did and especially how you would take it further to completion: we want you to not only demonstrate how you code, but also how you transfer knowledge. The rest of the time (40-45 minutes) we will talk about the assignment, how you did it and what are other ways of approaching the problem.
 
-We expect you to showcase your skills in some (or all) of the following areas:
-- Dependency Injection
+We will evaluate your skills in the following areas:
+- Dependency injection
 - Writing testable code
 - Exception handling and logging
-- Asynchronous code (when and how (not) to use async/await)
+- Asynchronous code (async/await)
 - Asynchrony through messaging (events, commands)
-- Web API + OWIN
+- Web API (and OWIN)
 - Storage technologies available on the Azure platform (SQL, Table Storage, Cosmos DB, ...)
+- Code organisation (modularity, dependencies between modules, naming etc)
+- Domain model design (OOP, DDD concepts etc)
+- Handling concurrency and scaling out your solution
 
-Please upload the code of the assignment  and the presentation at least 24 hours before you present 
-it. 
+Please upload the code of the assignment and the presentation at least 24 hours before you present it. 
 
 ## Case description
 
@@ -69,11 +71,11 @@ Prepare few slides for your presentation.
 Please attach the presentation file (pdf, ppt, keynote, google slides link) inside your project/repository test.
 
 Required:
-- Explore your architecture decision;
-- What tools and technologies you used (libraries, framework, tools etc);
-- Why did you decide to use technology X and not Y;
-- How you solve each step (API, Scaling out and Querying);
+- Explore your architecture decision
+- What tools and technologies you used (libraries, framework, tools etc)
+- Why did you decide to use technology X and not Y
+- How you solve each step (API, Scaling out and Querying)
 
 Bonus:
-- The problems and challenges that you have faced;
-- What you think that it can be improved and how.
+- The problems and challenges that you have faced
+- What you think that it can be improved and how
