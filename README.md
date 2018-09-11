@@ -38,11 +38,11 @@ The endpoint's response should indicate whether signing up was successful.
 ## Part 2: Scaling out
 
 After few months, the company's courses grow wildly successfull, business is 
-booming. There are many courses and millions of sign ups, and your synchronous API 
-cannot handle the load any more.
+booming. There are many courses and millions of sign ups, and your synchronous 
+in-process API which you have created in the Part 1 cannot handle the load any more.
 
 Create a new endpoint for your API that defers the actual processing to a 
-worker process: signing up is processed asynchronously.
+worker process: signing up is processed asynchronously via a message bus.
 
 This works as follows. The API puts a command message on a queue, and the 
 message is picked up by the worker process. The worker process tries to sign 
