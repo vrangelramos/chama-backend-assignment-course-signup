@@ -18,7 +18,7 @@ We will evaluate your skills in the following areas:
 - Domain model design (OOP, DDD concepts etc)
 - Handling concurrency and scaling out your solution
 
-Please upload the code of the assignment and the presentation at least 24 hours before you present it. 
+Please upload the code of the assignment and the presentation at least 24 hours before you present it. You may upload your solution to a github repository, but please don't fork from this assignment repository, as other candidates will then see it. Please do not publish the solution to this assignment in any other way.
 
 ## Case description
 
@@ -40,11 +40,11 @@ The endpoint's response should indicate whether signing up was successful.
 ## Part 2: Scaling out
 
 After few months, the company's courses grow wildly successfull, business is 
-booming. There are many courses and millions of sign ups, and your synchronous API 
-cannot handle the load any more.
+booming. There are many courses and millions of sign ups, and your synchronous 
+in-process API which you have created in the Part 1 cannot handle the load any more.
 
 Create a new endpoint for your API that defers the actual processing to a 
-worker process: signing up is processed asynchronously.
+worker process: signing up is processed asynchronously via a message bus.
 
 This works as follows. The API puts a command message on a queue, and the 
 message is picked up by the worker process. The worker process tries to sign 
