@@ -7,12 +7,14 @@ The assignment is intentionally made too big, we suggest you spend a maximum of 
 We will evaluate your skills in the following areas:
 - Dependency injection
 - Writing testable code
+- Writing and organizing tests
 - Exception handling and logging
 - Asynchronous code (async/await)
 - Asynchrony through messaging (events, commands)
-- Web API (and OWIN)
-- Storage technologies available on the Azure platform (SQL, Table Storage, Cosmos DB, ...)
-- Code organisation (modularity, dependencies between modules, naming etc)
+- Web API
+- Knowledge of Azure infrastructure and storage technologies (WebJobs, Azure Functions, SQL, Table Storage, Cosmos DB, ...)
+- Namings
+- Code organisation (modularity, dependencies between modules etc)
 - Domain model design (OOP, DDD concepts etc)
 - Handling concurrency and scaling out your solution
 
