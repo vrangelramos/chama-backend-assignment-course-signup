@@ -7,6 +7,7 @@ The assignment is intentionally made too big, we suggest you spend a maximum of 
 We will evaluate your skills in the following areas:
 - Dependency injection
 - Writing testable code
+- Test strategy (what to test)
 - Writing and organizing tests
 - Exception handling and logging
 - Asynchronous code (async/await)
