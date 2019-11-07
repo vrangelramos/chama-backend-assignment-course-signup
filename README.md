@@ -1,8 +1,8 @@
 # Assignment: Course Sign-up System
 
-Below assignment consists of 3 parts. 
+Below assignment consists of 3 parts and a presentation.
 
-The assignment is intentionally made too big, we suggest you spend a maximum of 5 hours on it. We would like you to demonstrate the parts you did finish, preferably on your own laptop so you can debug live if necessary. Please prepare a 15-20 minute of presentation, explaining what you did and especially how you would take it further to completion: we want you to not only demonstrate how you code, but also how you transfer knowledge. The rest of the time (40-45 minutes) we will talk about the assignment, how you did it and what are other ways of approaching the problem.
+The assignment is intentionally made too big, we suggest you spend a maximum of 5 hours on it. Please prepare and send along with the assignment a presentation file explaining what you did and especially how you would take it further to completion.
 
 We will evaluate your skills in the following areas:
 - Dependency injection
@@ -68,8 +68,10 @@ the course total capacity and current number of students
 - GET details: which returns the above information for a single course, plus
 the teacher and the list of registered students
 
-## Wrapping up
+## Wrapping up (Mandatory)
 Prepare few slides for your presentation.
+
+Our next interview would start with a 15-20 minutes presentation of your slides, explaining what you did and especially how you would take it further to completion: we want you to not only demonstrate how you code, but also how you transfer knowledge. The rest of the time (40-45 minutes) we will talk about the assignment, how you did it and what are other ways of approaching the problem.
 
 Please attach the presentation file (pdf, ppt, keynote, google slides link) inside your project/repository test.
 
