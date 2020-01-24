@@ -16,7 +16,7 @@ We will evaluate your skills in the following areas:
 - Knowledge of Azure infrastructure and storage technologies (WebJobs, Azure Functions, SQL, Table Storage, Cosmos DB, ...)
 - Namings
 - Code organisation (modularity, dependencies between modules etc)
-- Domain model design (OOP, DDD concepts etc)
+- Domain model design (DDD concepts: aggregates, value objects, domains services, etc)
 - Handling concurrency and scaling out your solution
 
 Please upload the code of the assignment and the presentation at least 24 hours before you present it. You may upload your solution to a github repository, but please don't fork from this assignment repository, as other candidates will then see it. Please do not publish the solution to this assignment in any other way.
