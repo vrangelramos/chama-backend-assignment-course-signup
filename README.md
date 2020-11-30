@@ -47,7 +47,7 @@ For analysis purposes, the company needs to know the minimum, maximum and averag
 Consider that this needs to keep working efficiently when there are millions
 of sign-ups per day. Calculating this statistic at every request is not feasible. 
 
-### FAQ
+## FAQ
 
 Do I have to complete the assignment in 4 hours?
 - No, we prefer if you use 4 hours to propose a rough implementation and describe how to continue. If you want to spend more time, its fine, but be aware that we will be stricter when evaluating your assignment. Try to balance both worlds.
