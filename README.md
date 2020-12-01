@@ -46,3 +46,31 @@ worker process: signing up is processed asynchronously via a message bus. The wo
 For analysis purposes, the company needs to know the minimum, maximum and average age of the students for all courses.
 Consider that this needs to keep working efficiently when there are millions
 of sign-ups per day. Calculating this statistic at every request is not feasible. 
+
+## FAQ
+
+Do I have to complete the assignment in 4 hours?
+- No, we prefer if you use 4 hours to propose a rough implementation and describe how to continue. If you want to spend more time, its fine, but be aware that we will be stricter when evaluating your assignment. Try to balance both worlds.
+
+Do I have to use the provided code structure?
+- No, we setup this way because some candidates prefer, but it is not a requirement.
+
+Do I have to implement the entire thing from top to bottom?
+- Not necessarily, as mentioned in this file, you have to figure out what to implement and what to mock (good candidates to mock are email service and the message bus).
+
+## Tips n' Tricks:
+
+### At Chama we like the following:
+- Micro Services
+- DDD
+- High skills evaluating concurrency
+- Mediator
+
+### At Chama, we use the following:
+- Azure (try to show some skills there)
+- CosmosDb, SQL Server and some Table Storage
+- Docker
+- Kubernetes
+- Service Fabric
+- Lots of Asynchronous Messaging
+- Serverless (Azure Functions)
