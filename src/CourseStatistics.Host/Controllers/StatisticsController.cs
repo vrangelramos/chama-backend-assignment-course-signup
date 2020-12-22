@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace StatisticsService.API.Controllers
+namespace CourseStatistics.Host.Controllers
 {
     [ApiController, Route("[controller]")]
     public class StatisticsController : ControllerBase

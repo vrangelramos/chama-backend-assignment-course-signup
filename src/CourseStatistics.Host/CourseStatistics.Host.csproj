@@ -1,11 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <AssemblyName>CourseStatistics.Host</AssemblyName>
-        <RootNamespace>CourseStatistics.Host</RootNamespace>
-        <PackageId>CourseStatistics.Host</PackageId>
-        <Authors>CourseStatistics.Host</Authors>
-        <Company>CourseStatistics.Host</Company>
-        <Product>CourseStatistics.Host</Product>
     </PropertyGroup>
 </Project>

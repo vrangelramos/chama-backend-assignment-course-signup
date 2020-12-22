@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoursesService", "CoursesSe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StatisticsService", "StatisticsService", "{B00CA323-81F1-444C-BF30-8D9CD65E8696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseStatistics.API", "CourseStatistics.API\CourseStatistics.API.csproj", "{36550E33-8E6B-4E65-A6C8-A5E739478A76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseStatistics.Host", "CourseStatistics.Host\CourseStatistics.Host.csproj", "{36550E33-8E6B-4E65-A6C8-A5E739478A76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseStatistics.Contract", "CourseStatistics.Contract\CourseStatistics.Contract.csproj", "{0BB43173-B141-4F74-A6E6-2A9560B48F56}"
 EndProject
